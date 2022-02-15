@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-014-materials-laboratory-fall-2006/8686e97102d88ac4862bd2bb8d558239_a1_mag_work.pdf
+file: /media/courses/3-014-materials-laboratory-fall-2006/8686e97102d88ac4862bd2bb8d558239_a1_mag_work.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: a1_mag_work.pdf
 uid: 8686e971-02d8-8ac4-862b-d2bb8d558239

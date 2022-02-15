@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource dicusses the format guidelines for the poster building.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-014-materials-laboratory-fall-2006/30cfa423f6155a15e156908df286f62e_w2_poster_format.pdf
+file: /media/courses/3-014-materials-laboratory-fall-2006/30cfa423f6155a15e156908df286f62e_w2_poster_format.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: w2_poster_format.pdf
 uid: 30cfa423-f615-5a15-e156-908df286f62e
