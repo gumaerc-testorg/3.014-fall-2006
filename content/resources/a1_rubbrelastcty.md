@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 178a3f23-79e5-2e6c-90c3-e52c15603a59
 resourcetype: Document
 title: a1_rubbrelastcty.pdf
 uid: 2f38f39c-bcfa-3cb7-9a08-be8565790cb9

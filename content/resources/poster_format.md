@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44c94210-7243-a72a-f1c8-ef367de020d6
 resourcetype: Document
 title: poster_format.pdf
 uid: dde33333-08ff-cc24-f270-0d84707ad1ab

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 178a3f23-79e5-2e6c-90c3-e52c15603a59
 resourcetype: Document
 title: b2_intermetallic.pdf
 uid: 0ae6adc4-0dff-a334-5de9-16546337e3ff

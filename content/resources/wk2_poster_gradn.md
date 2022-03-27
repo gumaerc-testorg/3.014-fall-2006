@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44c94210-7243-a72a-f1c8-ef367de020d6
 resourcetype: Document
 title: wk2_poster_gradn.pdf
 uid: 1af9023f-cc3e-3ec9-be56-214a1202ae31

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44c94210-7243-a72a-f1c8-ef367de020d6
 resourcetype: Document
 title: wk4_memo_grading.pdf
 uid: 34624421-3ae5-ec97-4b45-9f21e82b42e0

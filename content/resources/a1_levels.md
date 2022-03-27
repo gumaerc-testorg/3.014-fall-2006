@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 178a3f23-79e5-2e6c-90c3-e52c15603a59
 resourcetype: Document
 title: a1_levels.pdf
 uid: c01aa586-2520-b6d5-ca4a-38998c28a8e8

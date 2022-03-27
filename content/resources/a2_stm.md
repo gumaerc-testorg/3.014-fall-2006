@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 178a3f23-79e5-2e6c-90c3-e52c15603a59
 resourcetype: Document
 title: a2_stm.pdf
 uid: 57ff0d49-58b0-97e1-c218-b73a2b1ad45c

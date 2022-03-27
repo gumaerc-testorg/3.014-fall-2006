@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 178a3f23-79e5-2e6c-90c3-e52c15603a59
 resourcetype: Document
 title: a2_miscibility.pdf
 uid: bef8bd32-2a17-9a5f-735d-7d3a3ae6f42d

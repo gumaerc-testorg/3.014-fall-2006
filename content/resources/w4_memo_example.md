@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44c94210-7243-a72a-f1c8-ef367de020d6
 resourcetype: Document
 title: w4_memo_example.pdf
 uid: e0cf77ca-7b27-2bba-863f-6d99191001c1

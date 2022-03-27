@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44c94210-7243-a72a-f1c8-ef367de020d6
 resourcetype: Document
 title: wk3_journal_grad.pdf
 uid: 1afb703f-a3fd-30fa-6583-4fdf0ddd960a

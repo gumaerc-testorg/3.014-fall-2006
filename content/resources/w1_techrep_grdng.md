@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 44c94210-7243-a72a-f1c8-ef367de020d6
 resourcetype: Document
 title: w1_techrep_grdng.pdf
 uid: 35e510d9-a77b-ce2f-0f1f-f25a274de1f4

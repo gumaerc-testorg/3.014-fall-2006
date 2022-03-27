@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Melting and Drawing Fibers of Borate Glass
 parent_type: CourseSection
+parent_uid: aa777058-89d8-a4d2-b3b2-dad8d2f2d935
 resourcetype: Image
 title: pic8.jpg
 uid: d3c42943-702d-80e1-957e-97aa540bca69
