@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-014-materials-laboratory-fall-2006/bd94fba33f05353da913320d02e1d791_g1_liquidcrystal.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/bd94fba33f05353da913320d02e1d791_g1_liquidcrystal.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

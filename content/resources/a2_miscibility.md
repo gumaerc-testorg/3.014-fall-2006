@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-014-materials-laboratory-fall-2006/bef8bd322a179a5f735d7d3a3ae6f42d_a2_miscibility.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/bef8bd322a179a5f735d7d3a3ae6f42d_a2_miscibility.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

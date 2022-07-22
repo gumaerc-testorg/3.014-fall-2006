@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-014-materials-laboratory-fall-2006/ea8eb36df311dfcb167a83cac9d28dfb_a2_derivative.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/ea8eb36df311dfcb167a83cac9d28dfb_a2_derivative.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

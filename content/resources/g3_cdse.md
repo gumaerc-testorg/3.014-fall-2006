@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-014-materials-laboratory-fall-2006/50060cf4d22c13821b3b13971be9b660_g3_cdse.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/50060cf4d22c13821b3b13971be9b660_g3_cdse.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection

@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-014-materials-laboratory-fall-2006/98d70d8d60a5baee8ca5836897b0b9b0_a3_supercool.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/98d70d8d60a5baee8ca5836897b0b9b0_a3_supercool.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
