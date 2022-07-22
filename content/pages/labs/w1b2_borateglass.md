@@ -1,13 +1,17 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 178a3f23-79e5-2e6c-90c3-e52c15603a59
 title: Melting and Drawing Fibers of Borate Glass
 uid: aa777058-89d8-a4d2-b3b2-dad8d2f2d935
 ---
 
 The goal of this portion of the borate glass lab is to experience the glass transition through observing the temperature dependence of viscosity. Students work in teams of two, drawing sodium borate glass fibers from prepared melts.
-{{< image-gallery id="aa777058-89d8-a4d2-b3b2-dad8d2f2d935_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/3-014-materials-laboratory-fall-2006/" >}}
+{{< image-gallery id="aa777058-89d8-a4d2-b3b2-dad8d2f2d935_nanogallery2" baseUrl="/courses/3-014-materials-laboratory-fall-2006/" >}}
 {{< image-gallery-item href="ce3583a7b156fd80ed77c4671883f176_pic1.jpg" data-ngdesc="Crucibles containing the prepared borate glass, ready for reheating." text="Crucibles containing the prepared borate glass, ready for reheating." >}}
 {{< image-gallery-item href="90068a34b329832c43cba6c9adf8c980_pic2.jpg" data-ngdesc="The glass is heated to 900°C in a box furnace." text="The glass is heated to 900°C in a box furnace." >}}
 {{< image-gallery-item href="30a9b84f032f9ee1dad35ac062cdd1f4_pic3.jpg" data-ngdesc="TA Dilan Seneviratne demonstrates the procedure." text="TA Dilan Seneviratne demonstrates the procedure." >}}

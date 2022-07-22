@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 6c3f285a-632f-cf76-57a6-f591cb80603d
 ---
@@ -30,7 +32,7 @@ KEY DATES
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Safety Training
 {{< tdclose >}}
 {{< tdopen >}}
@@ -63,11 +65,11 @@ Pass safety course (online)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 α Amorphous Polymers
 {{< tdclose >}}
 {{< tdopen >}}
-α1 Polymer Structures
+α{{< sub "1" >}} Polymer Structures
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Meri Treska
@@ -79,7 +81,7 @@ Dr. Meri Treska
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-α2 Polymer Conformation
+α{{< sub "2" >}} Polymer Conformation
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Francesco Stellacci
@@ -90,11 +92,11 @@ Prof. Francesco Stellacci
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 β Glass Materials
 {{< tdclose >}}
 {{< tdopen >}}
-β1 Structure of Borate Glasses
+β{{< sub "1" >}} Structure of Borate Glasses
 {{< tdclose >}}
 {{< tdopen >}}
 Mr. Benjamin Hardy Wunsch
@@ -106,7 +108,7 @@ Mr. Benjamin Hardy Wunsch
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-β2 Structure of Borate Glasses
+β{{< sub "2" >}} Structure of Borate Glasses
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Linn Hobbs/Mr. Dilan A. Seneviratne
@@ -117,11 +119,11 @@ Prof. Linn Hobbs/Mr. Dilan A. Seneviratne
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 γ Quantifying Thermodynamic Properties of Materials
 {{< tdclose >}}
 {{< tdopen >}}
-γ1 Thermal Energy Storage
+γ{{< sub "1" >}} Thermal Energy Storage
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Geetha P. Berera
@@ -133,7 +135,7 @@ Dr. Geetha P. Berera
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-γ2 Magnetic Work
+γ{{< sub "2" >}} Magnetic Work
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Silvija Gradecak
@@ -165,11 +167,11 @@ Week 1 report due Friday of following week
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 α Quantifying Thermodynamic Properties
 {{< tdclose >}}
 {{< tdopen >}}
-α1 Liquid Crystal
+α{{< sub "1" >}} Liquid Crystal
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Silvija Gradecak
@@ -181,7 +183,7 @@ Prof. Silvija Gradecak
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-α2 Mechanical Work
+α{{< sub "2" >}} Mechanical Work
 {{< tdclose >}}
 {{< tdopen >}}
 Mr. Benjamin Hardy Wunsch
@@ -192,11 +194,11 @@ Mr. Benjamin Hardy Wunsch
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 β Crystalline Structures
 {{< tdclose >}}
 {{< tdopen >}}
-β1 Radius Ratios in Ionic Crystals
+β{{< sub "1" >}} Radius Ratios in Ionic Crystals
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Francesco Stellacci
@@ -208,7 +210,7 @@ Prof. Francesco Stellacci
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-β2 Crystal Polymorphs
+β{{< sub "2" >}} Crystal Polymorphs
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Geetha P. Berera
@@ -219,11 +221,11 @@ Dr. Geetha P. Berera
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 γ Diffraction Principles
 {{< tdclose >}}
 {{< tdopen >}}
-γ1 Derivative Structures
+γ{{< sub "1" >}} Derivative Structures
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Meri Treska
@@ -235,7 +237,7 @@ Dr. Meri Treska
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-γ2 Laser Diffraction
+γ{{< sub "2" >}} Laser Diffraction
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Linn Hobbs
@@ -267,11 +269,11 @@ Week 2 report due Friday of following week
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 α Materials as "Particle in a Box" Models
 {{< tdclose >}}
 {{< tdopen >}}
-α1 F-centers
+α{{< sub "1" >}} F-centers
 {{< tdclose >}}
 {{< tdopen >}}
 Mr. Benjamin Hardy Wunsch
@@ -283,7 +285,7 @@ Mr. Benjamin Hardy Wunsch
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-α2 Quantum Dots
+α{{< sub "2" >}} Quantum Dots
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Francesco Stellacci
@@ -294,11 +296,11 @@ Prof. Francesco Stellacci
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 β Visualizing Gibbs Free Energy
 {{< tdclose >}}
 {{< tdopen >}}
-β1 Batteries
+β{{< sub "1" >}} Batteries
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Geetha P. Berera
@@ -310,7 +312,7 @@ Dr. Geetha P. Berera
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-β2 Corrosion
+β{{< sub "2" >}} Corrosion
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Linn Hobbs
@@ -321,11 +323,11 @@ Prof. Linn Hobbs
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 γ Phase Transitions
 {{< tdclose >}}
 {{< tdopen >}}
-γ1 Phase Separation
+γ{{< sub "1" >}} Phase Separation
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Meri Treska
@@ -337,7 +339,7 @@ Dr. Meri Treska
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-γ2 Ferromagnetic Transitions
+γ{{< sub "2" >}} Ferromagnetic Transitions
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Silvija Gradecak
@@ -369,11 +371,11 @@ Week 3 report due Friday two weeks later
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 α Bonds and Wavefunctions
 {{< tdclose >}}
 {{< tdopen >}}
-α1 Electron Wavefunctions
+α{{< sub "1" >}} Electron Wavefunctions
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Silvija Gradecak
@@ -385,7 +387,7 @@ Prof. Silvija Gradecak
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-α2 Delocalization
+α{{< sub "2" >}} Delocalization
 {{< tdclose >}}
 {{< tdopen >}}
 Mr. Benjamin Hardy Wunsch
@@ -396,11 +398,11 @@ Mr. Benjamin Hardy Wunsch
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 β Vibration in Materials
 {{< tdclose >}}
 {{< tdopen >}}
-β1 Phonon Curves
+β{{< sub "1" >}} Phonon Curves
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Francesco Stellacci
@@ -412,7 +414,7 @@ Prof. Francesco Stellacci
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-β2 Mechanical Strength and Vibrations
+β{{< sub "2" >}} Mechanical Strength and Vibrations
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Linn Hobbs
@@ -423,11 +425,11 @@ Prof. Linn Hobbs
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 γ Phase Diagrams
 {{< tdclose >}}
 {{< tdopen >}}
-γ1 Eutectics
+γ{{< sub "1" >}} Eutectics
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Geetha P. Berera
@@ -439,7 +441,7 @@ Dr. Geetha P. Berera
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-γ2 Order Disorder Transitions
+γ{{< sub "2" >}} Order Disorder Transitions
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Meri Treska
