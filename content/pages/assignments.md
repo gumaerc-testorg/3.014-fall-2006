@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about assignments for the four lab
+  weeks.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -16,29 +18,29 @@ In addition to the four reports, students will be graded on their lab notebooks 
 Week 1: Poster Session
 ----------------------
 
-Format Guidelines ([PDF]({{< baseurl >}}/resources/poster_format))
+Format Guidelines ({{% resource_link dde33333-08ff-cc24-f270-0d84707ad1ab "PDF" %}})
 
-Grading Approach ([PDF]({{< baseurl >}}/resources/poster_grading))
+Grading Approach ({{% resource_link 6cb15c96-4fab-bfa0-db0d-15a5243fc9a7 "PDF" %}})
 
 Week 2: Journal Article
 -----------------------
 
-Format Guidelines ([PDF]({{< baseurl >}}/resources/journal_format))
+Format Guidelines ({{% resource_link d0ca6990-bbfe-49fc-0de6-5fa2c65c13da "PDF" %}})
 
-Grading Approach ([PDF]({{< baseurl >}}/resources/journal_grading))
+Grading Approach ({{% resource_link e457ed6a-4278-9905-27ca-67203f6f1d23 "PDF" %}})
 
 Week 3: Technical Report
 ------------------------
 
-Format Guidelines ([PDF]({{< baseurl >}}/resources/techrep_format))
+Format Guidelines ({{% resource_link 72c7b97e-d67c-7f91-26f9-36575978d03f "PDF" %}})
 
-Grading Approach ([PDF]({{< baseurl >}}/resources/techrep_grading))
+Grading Approach ({{% resource_link 898088c4-b612-b335-5632-d4708d28f071 "PDF" %}})
 
 Week 4: Memo (To be Written as Final Exam)
 ------------------------------------------
 
-Format Guidelines ([PDF]({{< baseurl >}}/resources/memo_format))
+Format Guidelines ({{% resource_link 7040f610-8220-e1be-356e-b0910563e235 "PDF" %}})
 
-Grading Approach ([PDF]({{< baseurl >}}/resources/memo_grading))
+Grading Approach ({{% resource_link 1b3ea1a9-5425-cb43-5e08-e977196cea55 "PDF" %}})
 
-Example ([PDF]({{< baseurl >}}/resources/memo_example))
+Example ({{% resource_link e0f3e1dd-c46a-1e3d-a687-c50f1247b105 "PDF" %}})
