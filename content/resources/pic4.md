@@ -2,6 +2,7 @@
 content_type: resource
 description: A student removes a heated crucible with tongs.
 file: /courses/3-014-materials-laboratory-fall-2006/017302f430e6efda18c9ea18c1f0daf7_pic4.jpg
+file_size: 63992
 file_type: image/jpeg
 image_metadata:
   caption: A student removes a heated crucible with tongs.

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-014-materials-laboratory-fall-2006/179f50e2a1caa03c23d8a574fafcf494_b2_heat.pdf
+file_size: 184230
 file_type: application/pdf
 learning_resource_types:
 - Labs

@@ -2,6 +2,7 @@
 content_type: resource
 description: TA Dilan Seneviratne demonstrates the procedure.
 file: /courses/3-014-materials-laboratory-fall-2006/30a9b84f032f9ee1dad35ac062cdd1f4_pic3.jpg
+file_size: 56688
 file_type: image/jpeg
 image_metadata:
   caption: TA Dilan Seneviratne demonstrates the procedure.
