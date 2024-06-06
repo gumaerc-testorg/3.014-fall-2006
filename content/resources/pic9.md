@@ -2,6 +2,7 @@
 content_type: resource
 description: Drawing a second glass fiber directly from the crucible.
 file: /courses/3-014-materials-laboratory-fall-2006/317c01760884d2320d0801f1eb33d7fe_pic9.jpg
+file_size: 59648
 file_type: image/jpeg
 image_metadata:
   caption: Drawing a second glass fiber directly from the crucible.

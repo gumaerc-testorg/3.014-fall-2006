@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-014-materials-laboratory-fall-2006/50060cf4d22c13821b3b13971be9b660_g3_cdse.pdf
+file_size: 298912
 file_type: application/pdf
 learning_resource_types:
 - Labs

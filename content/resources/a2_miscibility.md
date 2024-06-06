@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-014-materials-laboratory-fall-2006/bef8bd322a179a5f735d7d3a3ae6f42d_a2_miscibility.pdf
+file_size: 1321952
 file_type: application/pdf
 learning_resource_types:
 - Labs

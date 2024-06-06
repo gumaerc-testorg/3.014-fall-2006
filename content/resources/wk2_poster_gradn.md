@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses the grading approach for the reports of poster
   sessions.
 file: /courses/3-014-materials-laboratory-fall-2006/1af9023fcc3e3ec9be56214a1202ae31_wk2_poster_gradn.pdf
+file_size: 56933
 file_type: application/pdf
 learning_resource_types:
 - Assignments
