@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-014-materials-laboratory-fall-2006/4ec2a53dc99af235b1ec00f19d4a9b6e_g3_ntwrkglasses.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/4ec2a53dc99af235b1ec00f19d4a9b6e_g3_ntwrkglasses.pdf
 file_size: 374164
 file_type: application/pdf
 learning_resource_types:

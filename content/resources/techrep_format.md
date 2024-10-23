@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Formatting guidelines for the Week 3 Technical Report assignment.
-file: /courses/3-014-materials-laboratory-fall-2006/72c7b97ed67c7f9126f936575978d03f_techrep_format.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/72c7b97ed67c7f9126f936575978d03f_techrep_format.pdf
 file_size: 71411
 file_type: application/pdf
 learning_resource_types:
