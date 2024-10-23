@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-014-materials-laboratory-fall-2006/f592de9b58ed2b958b07e3842947d673_b2_temp_vibrate.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/f592de9b58ed2b958b07e3842947d673_b2_temp_vibrate.pdf
 file_size: 175455
 file_type: application/pdf
 learning_resource_types:
