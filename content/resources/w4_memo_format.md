@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses guidelines for writing memo for final exam.
-file: /courses/3-014-materials-laboratory-fall-2006/817f074319f7fc046199bfe64e395fe5_w4_memo_format.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/817f074319f7fc046199bfe64e395fe5_w4_memo_format.pdf
 file_size: 9183
 file_type: application/pdf
 learning_resource_types:

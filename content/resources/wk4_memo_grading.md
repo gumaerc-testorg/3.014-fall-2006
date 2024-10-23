@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses the grading approach for the reports of memos
   (final exams).
-file: /courses/3-014-materials-laboratory-fall-2006/346244213ae5ec974b459f21e82b42e0_wk4_memo_grading.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/346244213ae5ec974b459f21e82b42e0_wk4_memo_grading.pdf
 file_size: 67732
 file_type: application/pdf
 learning_resource_types:
