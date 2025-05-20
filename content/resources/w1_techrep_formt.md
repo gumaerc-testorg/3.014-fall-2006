@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource dicusses the format guidelines for the technical report.
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/cf3f5887f61b42c07e3764543d0169ba_w1_techrep_formt.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/cf3f5887f61b42c07e3764543d0169ba_w1_techrep_formt.pdf
 file_size: 67664
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/0ae6adc40dffa3345de916546337e3ff_b2_intermetallic.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/0ae6adc40dffa3345de916546337e3ff_b2_intermetallic.pdf
 file_size: 43385
 file_type: application/pdf
 learning_resource_types:

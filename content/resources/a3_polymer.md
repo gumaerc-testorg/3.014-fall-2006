@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/4ba1e03bfde5aa2185452c934dfc4d3f_a3_polymer.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/4ba1e03bfde5aa2185452c934dfc4d3f_a3_polymer.pdf
 file_size: 251137
 file_type: application/pdf
 learning_resource_types:

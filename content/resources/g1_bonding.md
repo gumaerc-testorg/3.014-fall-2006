@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/ee754dd83ab8601d0e03c05ba2f614e1_g1_bonding.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/ee754dd83ab8601d0e03c05ba2f614e1_g1_bonding.pdf
 file_size: 343910
 file_type: application/pdf
 learning_resource_types:
