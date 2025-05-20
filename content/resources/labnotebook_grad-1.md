@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/f1be2dcac6d84a5ee755dca52f22eaea_labnotebook_grad.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/f1be2dcac6d84a5ee755dca52f22eaea_labnotebook_grad.pdf
 file_size: 10264
 file_type: application/pdf
 learning_resource_types:

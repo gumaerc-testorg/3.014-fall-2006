@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "The glass is heated to 900\xB0C in a box furnace."
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/90068a34b329832c43cba6c9adf8c980_pic2.jpg
+file: /courses/3-014-materials-laboratory-fall-2006/90068a34b329832c43cba6c9adf8c980_pic2.jpg
 file_size: 69546
 file_type: image/jpeg
 image_metadata:

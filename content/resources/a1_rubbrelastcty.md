@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses the experiment polymer chains as entropy springs
   - rubber stretching expt and XRD study for the topic a1 rubber elasticity.
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/2f38f39cbcfa3cb79a08be8565790cb9_a1_rubbrelastcty.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/2f38f39cbcfa3cb79a08be8565790cb9_a1_rubbrelastcty.pdf
 file_size: 899908
 file_type: application/pdf
 learning_resource_types:

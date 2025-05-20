@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/6388b8c08a11ac0d1bf6980d3e91989b_g2_delocalzatn.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/6388b8c08a11ac0d1bf6980d3e91989b_g2_delocalzatn.pdf
 file_size: 471848
 file_type: application/pdf
 learning_resource_types:
