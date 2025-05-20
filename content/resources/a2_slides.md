@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/d95c656fd5b911b9ad3e7ba6e94e89e8_a2_slides.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/d95c656fd5b911b9ad3e7ba6e94e89e8_a2_slides.pdf
 file_size: 255980
 file_type: application/pdf
 learning_resource_types:

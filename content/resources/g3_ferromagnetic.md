@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses the experiment VSM study of Curie temperatures
   for the topic ?3 ferromagnetic transitions.
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/ea29e654caaccb1e230a21eb78e22067_g3_ferromagnetic.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/ea29e654caaccb1e230a21eb78e22067_g3_ferromagnetic.pdf
 file_size: 539565
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: A student pours the molten glass to prepare for a draw (note the glass
   continues to glow).
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/dad4b25e8a8f7947ac507dfc4bddb2af_pic7.jpg
+file: /courses/3-014-materials-laboratory-fall-2006/dad4b25e8a8f7947ac507dfc4bddb2af_pic7.jpg
 file_size: 78065
 file_type: image/jpeg
 image_metadata:

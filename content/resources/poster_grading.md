@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Grading guidelines for the Week 1 Poster Report assignment.
-file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/6cb15c964fabbfa0db0d15a5243fc9a7_poster_grading.pdf
+file: /courses/3-014-materials-laboratory-fall-2006/6cb15c964fabbfa0db0d15a5243fc9a7_poster_grading.pdf
 file_size: 10953
 file_type: application/pdf
 learning_resource_types:
