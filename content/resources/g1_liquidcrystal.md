@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-014-materials-laboratory-fall-2006/bd94fba33f05353da913320d02e1d791_g1_liquidcrystal.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/bd94fba33f05353da913320d02e1d791_g1_liquidcrystal.pdf
 file_size: 416669
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

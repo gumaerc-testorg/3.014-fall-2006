@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-014-materials-laboratory-fall-2006/63db6a22df4a23729e7c831b608ec90c_b1_therm_nrg.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/63db6a22df4a23729e7c831b608ec90c_b1_therm_nrg.pdf
 file_size: 59829
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

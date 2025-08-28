@@ -3,7 +3,7 @@ content_type: page
 description: This section summarizes the structure and goals of the class labs, and
   presents the background notes for most experiments.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 178a3f23-79e5-2e6c-90c3-e52c15603a59

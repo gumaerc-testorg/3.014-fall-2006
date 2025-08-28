@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-014-materials-laboratory-fall-2006/792af6559d6dd04502ef02a22f2a704b_g2_phase.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/792af6559d6dd04502ef02a22f2a704b_g2_phase.pdf
 file_size: 1351680
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
