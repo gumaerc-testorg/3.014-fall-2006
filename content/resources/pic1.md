@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Crucibles containing the prepared borate glass, ready for reheating.
-file: /courses/3-014-materials-laboratory-fall-2006/ce3583a7b156fd80ed77c4671883f176_pic1.jpg
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/ce3583a7b156fd80ed77c4671883f176_pic1.jpg
 file_size: 56255
 file_type: image/jpeg
 image_metadata:

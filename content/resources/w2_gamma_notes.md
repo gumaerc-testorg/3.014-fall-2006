@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Background notes on diffraction of materials for Laboratory 2.
-file: /courses/3-014-materials-laboratory-fall-2006/f791cbcf7044a7ca8b4dfefda258dd2f_w2_gamma_notes.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/f791cbcf7044a7ca8b4dfefda258dd2f_w2_gamma_notes.pdf
 file_size: 884601
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

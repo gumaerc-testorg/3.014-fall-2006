@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses the grading approach for the reports of experiments.
-file: /courses/3-014-materials-laboratory-fall-2006/35e510d9a77bce2f0f1ff25a274de1f4_w1_techrep_grdng.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/35e510d9a77bce2f0f1ff25a274de1f4_w1_techrep_grdng.pdf
 file_size: 62760
 file_type: application/pdf
 learning_resource_types:

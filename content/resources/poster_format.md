@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Formatting guidelines for the Week 1 Poster Report assignment.
-file: /courses/3-014-materials-laboratory-fall-2006/dde3333308ffcc24f2700d84707ad1ab_poster_format.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/dde3333308ffcc24f2700d84707ad1ab_poster_format.pdf
 file_size: 23093
 file_type: application/pdf
 learning_resource_types:
