@@ -2,7 +2,7 @@
 content_type: resource
 description: The crucible, and its melted glass contents, glow orange for several
   seconds after removal from the oven.
-file: /courses/3-014-materials-laboratory-fall-2006/ecf85cc7b307b6201736b232be87dfd9_pic6.jpg
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/ecf85cc7b307b6201736b232be87dfd9_pic6.jpg
 file_size: 68540
 file_type: image/jpeg
 image_metadata:

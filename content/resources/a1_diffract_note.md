@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-014-materials-laboratory-fall-2006/2d85d6cda89e852743c7c4c9710b5193_a1_diffract_note.pdf
+file: /ol-ocw-studio-app/courses/3-014-materials-laboratory-fall-2006/2d85d6cda89e852743c7c4c9710b5193_a1_diffract_note.pdf
 file_size: 222104
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
