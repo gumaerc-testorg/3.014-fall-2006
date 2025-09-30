@@ -129,7 +129,7 @@ Prof. Linn Hobbs & Mr. Benjamin Hardy Wunsch
 DSC Study of Lauric/Stereatic Acid Mixtures as Phase Change Materials ({{% resource_link 0171bfcc-e68f-dc0a-3800-67f4384e227b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Video: ([MP4 ‑ 211 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-22sept2006-220k.mp4))
+Video: ({{% resource_link "e2c30ab4-4503-4ea0-9e3d-855711717e4d" "MP4 ‑ 211 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Dr. Geetha P. Berera
@@ -261,7 +261,7 @@ Background Notes on Diffraction of Materials ({{% resource_link f791cbcf-7044-a7
 
 {{< tdclose >}}
 {{< tdopen >}}
-Video: ([MP4 ‑ 251 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-18oct2006-220k.mp4))
+Video: ({{% resource_link "b7b06ef5-56ee-465d-9df1-504a71483c70" "MP4 ‑ 251 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Linn Hobbs
@@ -300,7 +300,7 @@ Mr. Benjamin Hardy Wunsch
 Synthesis and Optical Study of CdSe Quantum Dots ({{% resource_link d92f109d-0a6d-3b60-2101-27a0e1344e6d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Video: ([MP4 ‑ 75 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-17nov2006-220k.mp4))
+Video: ({{% resource_link "fb7b7b5b-90de-4a2a-af5d-28a7bbebccdd" "MP4 ‑ 75 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Francesco Stellacci
@@ -438,7 +438,7 @@ Prof. Francesco Stellacci
 Young Modulus and Speed of Sound in Borate Glasses ({{% resource_link c6361e26-a057-c624-1546-5acc85216960 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Video: ([MP4 ‑ 255 MB](http://www.archive.org/download/MIT3.014F06/ocw-3.014-13dec2006-220k.mp4))
+Video: ({{% resource_link "ed37a738-29bc-406b-aa5c-6bd7c00a98ab" "MP4 ‑ 255 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. Linn Hobbs
